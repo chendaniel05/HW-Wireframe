@@ -9,6 +9,9 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin-left: 100px;
+    line-height: 30px;
+
 }
 
 header {
@@ -23,6 +26,58 @@ Nav {
     margin-bottom: 20px;
 }
 
-section {
+#section {
     background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+    width: 495px;
+    height: 300px;
+    padding-top: 30px;
+}
+
+#article {
+    background: #777;
+    color: #ebebeb;
+    padding-top: 10px;
+    padding-bottom: px;
+    height: 220px;
+}
+
+#h123 {
+    color: #777;
+    background: #ebebeb;
+    font-weight: bold;
+    padding-top: 10px;
+    width: 440px;
+    height: 70px;
+    margin: 10px 10px 10px 8px;
+}
+
+#p {
+    color: #777;
+    background: #ebebeb;
+    font-weight: bold;
+    padding-top: 10px;
+    width: 440px;
+    height: 70px;
+    margin: 10px 10px 10px 8px;
+}
+
+#aside {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: right;
+    width: 450px;
+    height: 300px;
+    padding-top: 30px;
+}
+
+#footer {
+   clear: both;
+   background: #ebebeb;
+    padding: 30px;
+    margin-bottom: 10px;
+
 }
